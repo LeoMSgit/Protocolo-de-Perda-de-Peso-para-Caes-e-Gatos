@@ -32,9 +32,10 @@ Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) des
 - **Sistema Operacional**: Windows 7 ou superior.
 
 ---
-### 🖥️ Instruções de Uso
-## Download e Execução:
- - Versão Cloud Google Colab (Jupyter) disponível [AQUI](https://colab.research.google.com/gist/LeoMSgit/9efde259f04f1f7aef39941240d48022/gerador-qr-code-customiz-vel.ipynb).
+ <br />
+## 🖥️ Instruções de Uso
+### Download e Execução:
+ - Versão Cloud Google Colab (Jupyter) disponível [AQUI]().
 
    <br />
    <br />
@@ -44,7 +45,7 @@ Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) des
 
 2. Execute o arquivo 'Protocolo de Perda de Peso para Cães e Gatos'.
 
-## Entrada de Dados:
+### Entrada de Dados:
 1. **Selecione o tipo de animal**: Cão ou Gato.
 2. **Informe os seguintes valores**:
    - Peso atual do animal.
@@ -52,11 +53,11 @@ Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) des
    - Número de refeições por dia.
    - Valor energético da ração.
 
-# Botões:
+#### Botões:
 - **Calcular**: Realiza os cálculos e exibe os resultados.
 - **Limpar**: Limpa todos os campos de entrada e os resultados.
 
-# Resultados:
+#### Resultados:
 Os cálculos são exibidos na área de resultados:
 - TPPS.
 - Peso Meta.
