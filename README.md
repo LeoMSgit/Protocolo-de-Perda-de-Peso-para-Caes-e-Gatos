@@ -32,7 +32,9 @@ Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) des
 - **Sistema Operacional**: Windows 7 ou superior.
 
 ---
+
  <br />
+ 
 ## 🖥️ Instruções de Uso
 ### Download e Execução:
  - Versão Cloud Google Colab (Jupyter) disponível [AQUI]().
