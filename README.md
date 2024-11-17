@@ -3,6 +3,9 @@
 Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) desenvolvido em Python para calcular a perda de peso ideal de cães e gatos. O aplicativo permite calcular parâmetros como TPPS, peso meta, NEPP e a quantidade de ração por refeição.
 
 ---
+![Descrição da Imagem](https://i.imgur.com/0r859A8.png)
+![Descrição da Imagem](https://i.imgur.com/Xzy8CQM.png)
+![Descrição da Imagem](https://i.imgur.com/x7wOjcD.png)
 
 ## 📝 Funcionalidades
 
