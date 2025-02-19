@@ -46,7 +46,7 @@ Este repositório contém um aplicativo GUI (Interface Gráfica do Usuário) des
    <br />
 
 
-1. Baixe o arquivo executável do software via Repositório GitHub [AQUI](https://github.com/LeoMSgit/Protocolo-de-Perda-de-Peso-para-Caes-e-Gatos/releases/tag/V1).
+1. Baixe o arquivo executável do software via Repositório GitHub [AQUI](https://github.com/LeoMSgit/Protocolo-de-Perda-de-Peso-para-Caes-e-Gatos/releases/download/release_2/Protocolo.de.Perda.de.Peso.para.Caes.e.Gatos_V4.exe).
 
 2. Execute o arquivo 'Protocolo de Perda de Peso para Cães e Gatos'.
 
